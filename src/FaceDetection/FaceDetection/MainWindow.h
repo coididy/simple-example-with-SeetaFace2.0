@@ -17,10 +17,10 @@
 #include <opencv2/opencv.hpp>  
 #include <opencv2/highgui/highgui.hpp>  
 
-#include <seeta/FaceDetector.h>
-#include <seeta/FaceLandmarker.h>
-#include <seeta/FaceDatabase.h>
-#include <seeta/CFaceInfo.h>
+#include "SeetaFace2/FaceDetector/include/seeta/FaceDetector.h"
+#include "SeetaFace2/FaceLandmarker/include/seeta/FaceLandmarker.h"
+#include "SeetaFace2/FaceRecognizer/include/seeta/FaceDatabase.h"
+#include "SeetaFace2/FaceDetector/include/seeta/CFaceInfo.h"
 #include "Struct_cv.h"
 #pragma execution_character_set("utf-8")
 class MainWindow : public QMainWindow

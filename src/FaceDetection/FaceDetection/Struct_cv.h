@@ -2,7 +2,7 @@
 
 #include <opencv2/core/core.hpp>
 
-#include <seeta/CStruct.h>
+#include "SeetaFace2/FaceDetector/include/seeta/CStruct.h"
 
 namespace seeta
 {
