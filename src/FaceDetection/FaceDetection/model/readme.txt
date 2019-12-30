@@ -1,0 +1,4 @@
+fd_2_00.dat：FaceDetector模块使用的模型
+fr_2_10.dat：FaceRecognizer模块使用的模型
+pd_2_00_pts5.dat：FaceLandmarker模块使用的模型——人脸5点特征点
+pd_2_00_pts5.dat：FaceLandmarker模块使用的模型——人脸81点特征点
